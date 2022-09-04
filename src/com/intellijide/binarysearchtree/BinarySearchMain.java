@@ -20,5 +20,6 @@ public class BinarySearchMain {
 
         binarySearch.printInorder(root);
         System.out.println(root);
+        System.out.println(binarySearch.search(root,63));
     }
 }
